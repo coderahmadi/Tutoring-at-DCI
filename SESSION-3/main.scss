@@ -52,7 +52,12 @@ body {
             p {
                 font-size: 2rem;
                 color: $white;
+                &:hover{
+                    font-size: 6rem;
+                    // color:$royalBlue;
+                }
             }
+           
             ul.nav-title {
                 display: flex;
                 flex-flow: row wrap;
@@ -141,6 +146,8 @@ body {
             }
             .mission-content {
                 background: url(./src/images/mission.png) center no-repeat fixed;
+                // background-image: url(./src/images/mission.png);
+                // background-attachment: fixed;
                 padding: 160px 0;
                 object-fit: cover;
                 text-align: center;

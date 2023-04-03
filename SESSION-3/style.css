@@ -50,6 +50,9 @@ body header nav p {
   font-size: 2rem;
   color: white;
 }
+body header nav p:hover {
+  font-size: 6rem;
+}
 body header nav ul.nav-title {
   display: flex;
   flex-flow: row wrap;
@@ -188,6 +191,7 @@ body footer ul {
 body footer ul li a {
   color: white;
   font-size: 1rem;
+  color: #00539c;
 }
 @media (max-width: 600px) and (min-width: 279px) {
   body footer ul {
