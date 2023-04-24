@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "sass --watch main.scss style.css",
+    "start": "sass --watch main.scss style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,6 +16,8 @@
   "bugs": {
     "url": "https://github.com/coderahmadi/Tutoring-at-DCI/issues"
   },
-  "homepage": "https://github.com/coderahmadi/Tutoring-at-DCI#readme"
-  
+  "homepage": "https://github.com/coderahmadi/Tutoring-at-DCI#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
