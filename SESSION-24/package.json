@@ -1,0 +1,24 @@
+{
+  "name": "be-07-express-solar-system-api-coderahmadi",
+  "version": "1.0.0",
+  "description": "This project will have you building an API for accessing datasets about our solar system",
+  "main": "planets-dataset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-WD-22-E12/be-07-express-solar-system-api-coderahmadi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-WD-22-E12/be-07-express-solar-system-api-coderahmadi/issues"
+  },
+  "homepage": "https://github.com/FBW-WD-22-E12/be-07-express-solar-system-api-coderahmadi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
